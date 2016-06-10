@@ -28,3 +28,8 @@ Additionally, they don't want a new listener to consume 10 GB of bandwidth in do
 Regardless of their reasoning, I'm creating this project to make it easier to download every episode of a specified postcase to the user's local drive.
 I recommend that people who intend on using this project only download those posdcasts that you have a confirmed interest in.
 Don't waste a their bandwidth, as they might shut off their downloading option entirely.
+
+#### Why Go?
+
+I wanted to learn Go.
+I might abandon Go if it becomes too much of a pain in the ass to develop in, at which point I would port the project to Python.

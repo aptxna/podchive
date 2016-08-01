@@ -1,12 +1,14 @@
 # Podchive
-download mp3 files from website and save to local directory
+Download podcast from website and save to local directory.
 
 #### run python script in command window
+
 ```bash
 $ python main.py
 ```
 
 will begin downloading files:
+
 ```bash
 Downloading: skepticast2016-07-30.mp3 Bytes: 39693229
    39693229  [100.00%]
@@ -32,4 +34,5 @@ Downloading: skepticast2016-06-04.mp3 Bytes: 34393571
 ```
 
 files will be automatically downloaded and saved to local directory "collection" in current path
+
 ![image](https://github.com/aptxna/podchive/blob/master/screenshot.png)

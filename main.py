@@ -49,7 +49,7 @@ def getFile(url):
 			status = r"%10d  [%3.2f%%]" % (file_size_dl, file_size_dl*100.0/file_size)
 			# ASCII code "8" is Backspace
 			status = status + chr(8)*(len(status)+1)
-			# with "," Newling was replaced by Space
+			# with "," Newline was replaced by Space
 			print status,
 		print chr(8)
 		# don't forget to close file

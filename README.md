@@ -35,4 +35,4 @@ Downloading: skepticast2016-06-04.mp3 Bytes: 34393571
 
 files will be automatically downloaded and saved to local directory "collection" in current path:
 
-![image](./screenshot.png =200x)
+<img src="https://github.com/aptxna/podchive/blob/master/screenshot.png" width="200">

@@ -1,7 +1,7 @@
 # Podchive
 Download podcast from website and save to local directory.
 
-#### run python script in command window
+Run python script in command window:
 
 ```bash
 $ python main.py
@@ -33,6 +33,6 @@ Downloading: skepticast2016-06-04.mp3 Bytes: 34393571
 .
 ```
 
-files will be automatically downloaded and saved to local directory "collection" in current path
+files will be automatically downloaded and saved to local directory "collection" in current path:
 
-![image](screenshot.png =200x)
+![image](./screenshot.png =200x)
